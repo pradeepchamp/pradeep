@@ -10,12 +10,12 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hello 👋.",
-  title2: "Harikrushn",
+  title2: "pradeep",
   logo_name: "harry.k()",
   nickname: "harry / picleric",
-  full_name: "Harikrushn Kanani",
+  full_name: "pradeep s",
   subTitle:
-    "Full Stack Developer, Open Source Enthusiast 🔥. Always learning.",
+    "mern Stack Developer, Open Source Enthusiast 🔥. Always learning.",
   resumeLink:
     "https://docs.google.com/document/d/1A_jWRG74Rst427tg1izLa6vRXclS9_9F856jWJPJlDY/edit?usp=sharing",
   mail: "mailto:hkanani191@gmail.com",
@@ -35,7 +35,7 @@ const socialMediaLinks = {
 const skills = {
   data: [
     {
-      title: "Full Stack Development",
+      title: "mern Stack Development",
       fileName: "FullStackImg",
       skills: [
         "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications",
